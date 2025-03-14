@@ -2,7 +2,7 @@
 
 🚀 **Student | AI Enthusiast | Tech Innovator | Founder of Africa Computer Society**  
 
-I'm a student at **National University of Science and Technology**, passionate about **embracing technological change in Africa**. My focus is on **Artificial Intelligence, Data Science, and Software Development** to drive innovation across the continent.  
+I'm a student at **National University of Science and Technology**, passionate about **embracing technological change in Africa**. My focus is on **Artificial Intelligence, Data Science, and Game Development** to drive innovation across the continent.  
 
 ---
 
