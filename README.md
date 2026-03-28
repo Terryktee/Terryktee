@@ -2,12 +2,13 @@
 
 🚀 **Student | AI Enthusiast | Tech Innovator | Founder of Africa Computer Society**  
 
-I'm a student at **National University of Science and Technology**, passionate about **embracing technological change in Africa**. My focus is on **Artificial Intelligence, Data Science, and Game Development** to drive innovation across the continent.  
+I'm a student at **National University of Science and Technology**, passionate about **embracing technological change in Africa**. My focus is on **Artificial Intelligence, Data Engineering and Game Development** to drive innovation across the continent.  
 
 ---
 
 ## 🌱 What I Do  
-- 💡 Exploring **AI & Machine Learning** to solve real-world problems.  
+- 💡 Exploring **AI & Machine Learning** to solve real-world problems.
+- Design and Build Scalable data pipelines
 - 💻 Developing **web applications & gaming projects** with **React, Django, and more**.  
 - 🏫 Leading the **Africa Computer Society**, a **non-profit organization** focused on:  
   - 🖥️ **Computer Literacy & Digital Skills**  
@@ -32,16 +33,6 @@ I'm a student at **National University of Science and Technology**, passionate a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-
-## 📌 Current Projects  
-### 🔹 **CampusKey**  
-A platform simplifying student accommodation searches.  
-
-### 🔹 AI-Powered Solutions  
-Building AI applications for **education & business solutions** in Africa.  
-
----
-
 ## 🌍 Connect With Me  
 📌 **GitHub**: [Your GitHub Profile](#)  
 📌 **LinkedIn**: [Your LinkedIn](#)  
