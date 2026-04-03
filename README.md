@@ -33,11 +33,9 @@ I'm a student at **National University of Science and Technology**, passionate a
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
-## 🌍 Connect With Me  
-📌 **GitHub**: [Your GitHub Profile](#)  
-📌 **LinkedIn**: [Your LinkedIn](#)  
-📌 **Website/Blog**: [Your Blog](#)  
-📌 **Email**: [Your Email](#)  
+## 🌍 Connect With Me    
+📌 **LinkedIn**: [https://www.linkedin.com/in/terryktee/](#)   
+📌 **Email**: [ttkapumhaa@gmail.com](#)  
 
 ---
 
