@@ -38,9 +38,13 @@ Beyond engineering, I explore **Machine Learning & AI** to build intelligent sys
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=terryktee\&theme=transparent\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=terryktee)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=terryktee\&theme=transparent\&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=terryktee\&theme=transparent\&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=terryktee\&theme=transparent\&layout=compact)
+![](https://streak-stats.demolab.com/?user=terryktee&theme=transparent)
+![](https://github-profile-trophy.vercel.app/?username=terryktee&theme=flat&no-frame=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=terryktee&theme=github-compact)
+![](https://github-readme-stats.vercel.app/api/pin/?username=terryktee&repo=GitOps-with-Terraform&theme=transparent)
+
 
 ## Connect With Me
 
