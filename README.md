@@ -1,42 +1,52 @@
-# 🌍 Hi, I'm Terryktee | Tech Enthusiast & AI Advocate  
+#  Hi, I'm Terryktee
 
-🚀 **Student | AI Enthusiast | Tech Innovator | Founder of Africa Computer Society**  
+ **Data Engineer | AI & ML Enthusiast | Tech Innovator | Founder of Africa Computer Society**
 
-I'm a student at **National University of Science and Technology**, passionate about **embracing technological change in Africa**. My focus is on **Artificial Intelligence, Data Engineering and Game Development** to drive innovation across the continent.  
+## About Me
 
----
+Experienced Data Engineer specializing in building **end-to-end data pipelines** that enable reliable data extraction, transformation, and delivery at scale.
 
-## 🌱 What I Do  
-- 💡 Exploring **AI & Machine Learning** to solve real-world problems.
-- Design and Build Scalable data pipelines
-- 💻 Developing **web applications & gaming projects** with **React, Django, and more**.  
-- 🏫 Leading the **Africa Computer Society**, a **non-profit organization** focused on:  
-  - 🖥️ **Computer Literacy & Digital Skills**  
-  - 🌍 **Technology Development & Innovation**  
-  - 🔗 **Bridging the Tech Gap in Africa**  
+I design systems that prioritize **data quality, security, and performance**, using modern **DataOps practices** and orchestration tools like **Apache Airflow** to automate workflows.
 
----
+With strong expertise in **ETL, data modeling, and analytics engineering (dbt)**, I transform raw data into **actionable insights** that drive decision-making.
+
+I also work with **cloud infrastructure (AWS, Terraform, CloudFormation)** to build scalable and secure data platforms, following **least privilege and modern DevOps practices (GitOps, CI/CD)**.
+
+Beyond engineering, I explore **Machine Learning & AI** to build intelligent systems and contribute to advancing technology across Africa.
 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ! ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) !
+##  Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Apache Airflow](https://img.shields.io/badge/airflow-%23017CEE.svg?style=for-the-badge\&logo=apache-airflow\&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-%23FF694B.svg?style=for-the-badge\&logo=dbt\&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge\&logo=amazon-s3\&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-%238C4FFF.svg?style=for-the-badge\&logo=amazon-redshift\&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge\&logo=terraform\&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/cloudformation-%23FF4F8B.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/opentelemetry-%23000000.svg?style=for-the-badge\&logo=opentelemetry\&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge\&logo=slack\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=terryktee&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=terryktee&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=terryktee&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=terryktee&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=terryktee\&theme=transparent\&hide_border=false\&include_all_commits=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=terryktee\&theme=transparent\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=terryktee\&theme=transparent\&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-## 🌍 Connect With Me    
-📌 **LinkedIn**: [https://www.linkedin.com/in/terryktee/](#)   
-📌 **Email**: [ttkapumhaa@gmail.com](#)  
+**LinkedIn**: [https://www.linkedin.com/in/terryktee/](https://www.linkedin.com/in/terryktee/)
+**Email**: [ttkapumhaa@gmail.com](mailto:ttkapumhaa@gmail.com)
 
----
+*"Building scalable data systems and transforming data into impact."* 🚀
 
-⚡ _"Bridging the tech gap, one innovation at a time!"_ 🚀  
+* Add a **“Featured Projects” section (your Airflow + Redshift pipeline 🔥)**
+* Or optimize this for **recruiters scanning in <10 seconds** (even sharper version)
