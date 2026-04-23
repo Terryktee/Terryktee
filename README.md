@@ -38,6 +38,7 @@ Beyond engineering, I explore **Machine Learning & AI** to build intelligent sys
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=terryktee\&theme=transparent\&hide_border=false\&include_all_commits=true)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=terryktee)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=terryktee\&theme=transparent\&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=terryktee\&theme=transparent\&layout=compact)
 
