@@ -46,10 +46,8 @@ Beyond engineering, I explore **Machine Learning & AI** to build intelligent sys
 
 ## Connect With Me
 
-**LinkedIn**: [https://www.linkedin.com/in/terryktee/](https://www.linkedin.com/in/terryktee/)
-**Email**: [ttkapumhaa@gmail.com](mailto:ttkapumhaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-terryktee-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/terryktee/)
+[![Email](https://img.shields.io/badge/Email-ttkapumhaa%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ttkapumhaa@gmail.com)
 
-*"Building scalable data systems and transforming data into impact."* 🚀
+*"Building scalable data systems and transforming data into impact."* 
 
-* Add a **“Featured Projects” section (your Airflow + Redshift pipeline 🔥)**
-* Or optimize this for **recruiters scanning in <10 seconds** (even sharper version)
